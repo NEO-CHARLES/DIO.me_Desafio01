@@ -11,8 +11,8 @@ Desafio de projeto 01 -  Criando meu primeiro repositório.
 ### clear
 > Limpa Console
 
-### echo
->
+### echo 'o que for escrito a seguir'
+> repete o que for escrito a seguir
 
 ### rm 'Arquivo.Extensão'
 > Remove Arquivo
@@ -20,6 +20,14 @@ Desafio de projeto 01 -  Criando meu primeiro repositório.
 ### rmdir 'Diretório'
 > Remove Diretório (pasta)
 
+### > 'Arquivo.Extensão'
+> Cria Arquivo.Extensão
+
+### cd / 'o_Diretório_que_quero_acessar'
+> (Change directory) muda do diretório atual para o_Diretório_que_quero_acessar
+
+### cd
+> (Change directory) muda do diretório atual para o diretório um nivel acima
 
 # Atalhos Git Bash Console
 [Tab]
